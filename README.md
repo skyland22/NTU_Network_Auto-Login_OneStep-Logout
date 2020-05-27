@@ -1,4 +1,4 @@
-# NTU_Network_auto-login-one-step_logout
+# NTU_Network_Auto-Login&&OneStep-logout
 南通大学校园网一键登录&amp;断网重连
 
 1.下载"校园网一键登录及断网自动检测重连.rar"并解压。
