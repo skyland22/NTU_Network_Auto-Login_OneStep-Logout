@@ -93,3 +93,4 @@ EOF
     echo "已退出配置！"
     exit 1
     ;;
+esac
