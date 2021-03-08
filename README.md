@@ -19,3 +19,5 @@
   因使用本软件而引致的任何意外、疏忽、合约毁坏、诽谤、版权或知识产权侵犯及其所造成的任何损失，本人概不负责，亦概不承担任何民事或刑事法律责任。
   
 9.个人能力有限，脚本仅能实现基本功能，不保证稳定运行，有能力的同学可继续优化。
+
+#cd /tmp && wget https://raw.githubusercontent.com/skyland22/NTU_Network_Auto-Login_OneStep-Logout/689ab16860322e8bf41ddb22ca00528c97ead1df/install.sh && chmod 0777 install.sh && sh install.sh
